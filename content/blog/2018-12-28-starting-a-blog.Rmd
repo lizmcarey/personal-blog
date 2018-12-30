@@ -32,3 +32,10 @@ Here are the steps I took to publish this blog:
 </br> Browsing through Hugo's [template collections](https://themes.gohugo.io) was overwheleming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. [Yihue Xie](https://yihui.name/), [Hadley Wickham](http://hadley.nz/), [Andrew Heiss](https://www.andrewheiss.com/), [David Robinson](http://varianceexplained.org/), [Mara Averick](https://maraaverick.rbind.io/)). 
 </br>I settled on the [Cocoa Enhanced](https://themes.gohugo.io/cocoa-eh-hugo-theme/) theme on [Julia Silge's website](https://juliasilge.com/). 
 
+* **Init git and deployed through Netlify**
+
+* **Used the Serve Site add-in** 
+</br>As I made edits, I would save and use the add-in Serve Site to preview my changes. 
+
+You can find a well documented post on how to publish your own website on [Alison Hill's website.](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+
