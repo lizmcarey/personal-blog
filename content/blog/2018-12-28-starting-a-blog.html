@@ -7,8 +7,6 @@ categories: []
 tags:
   - R Markdown
 description: Desc
-hacker_news_id: ''
-lobsters_id: ''
 meta_img: /images/image.jpg
 ---
 
@@ -26,11 +24,15 @@ meta_img: /images/image.jpg
 <hr />
 <p>Here are the steps I took to publish this blog:</p>
 <ul>
-<li><p><strong>Found a blog theme I liked</strong> </br> Browsing through Hugo’s <a href="https://themes.gohugo.io">template collections</a> was overwheleming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. <a href="https://yihui.name/">Yihue Xie</a>, <a href="http://hadley.nz/">Hadley Wickham</a>, <a href="https://www.andrewheiss.com/">Andrew Heiss</a>, <a href="http://varianceexplained.org/">David Robinson</a>, <a href="https://maraaverick.rbind.io/">Mara Averick</a>). </br>I settled on the <a href="https://themes.gohugo.io/cocoa-eh-hugo-theme/">Cocoa Enhanced</a> theme on <a href="https://juliasilge.com/">Julia Silge’s website</a>.</p></li>
-<li><p><strong>Init git and deployed through Netlify</strong></p></li>
-<li><p><strong>Used the Serve Site add-in</strong> </br>As I made edits, I would save and use the add-in Serve Site to preview my changes.</p></li>
+<li><p><strong>Found a blog theme I liked</strong> </br> Browsing through Hugo’s <a href="https://themes.gohugo.io">template collections</a> was overwheleming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. <a href="https://yihui.name/">Yihue Xie</a>, <a href="http://hadley.nz/">Hadley Wickham</a>, <a href="https://www.andrewheiss.com/">Andrew Heiss</a>, <a href="http://varianceexplained.org/">David Robinson</a>, <a href="https://maraaverick.rbind.io/">Mara Averick</a>). I settled on the <a href="https://themes.gohugo.io/cocoa-eh-hugo-theme/">Cocoa Enhanced</a> theme on <a href="https://juliasilge.com/">Julia Silge’s website</a>.</p></li>
+<li><p><strong>Init git and deployed through Netlify</strong><br />
+Take the time to create a repo on Github and link your local files. Being able to push changes through git and have it continously deployed through Netlify is a huge timesaver.<br />
+It took me awhile to get Netlify to automatically deploy changes from my repo. I found out it’s because the default build command on Hugo is too old, you’ll need to create an environment variable <code>HUGO_VERSION</code> with a Hugo version greater or equal to 0.20.<br />
+You can read more <a href="https://bookdown.org/yihui/blogdown/netlify.html">here.</a></p></li>
+<li><p><strong>Used the Serve Site add-in</strong><br />
+The Serve Site add-in lets you preview edits you’ve made in the Viewer pane in Rstudio. I found this super helpful in helping gudie any major changes to the website.</p></li>
 </ul>
 <p>You can find a well documented post on how to publish your own website on <a href="https://alison.rbind.io/post/up-and-running-with-blogdown/">Alison Hill’s website.</a></p>
 <center>
-<img src="https://media3.giphy.com/media/11F0d3IVhQbreE/giphy.gif?cid=3640f6095c2832f546486f5163c06eac.gif" style="width:40.0%" />
+<img src="https://media3.giphy.com/media/11F0d3IVhQbreE/giphy.gif?cid=3640f6095c2832f546486f5163c06eac.gif" style="width:60.0%" />
 </center>
