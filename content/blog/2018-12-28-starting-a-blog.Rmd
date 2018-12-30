@@ -39,3 +39,7 @@ Here are the steps I took to publish this blog:
 
 You can find a well documented post on how to publish your own website on [Alison Hill's website.](https://alison.rbind.io/post/up-and-running-with-blogdown/)
 
+<center>
+![ ](https://media3.giphy.com/media/11F0d3IVhQbreE/giphy.gif?cid=3640f6095c2832f546486f5163c06eac.gif){width=40%}
+</center>
+
