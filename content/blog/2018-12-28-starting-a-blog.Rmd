@@ -14,4 +14,21 @@ meta_img: /images/image.jpg
 
 I finally started a blog! 
 
-The trick is just to start. 
+I first thought about starting a blog 3 years ago. I never went through it because:  
+
+1. I didn't know where to begin
+2. I couldn't think of any content
+3. Laziness
+
+The trick is to set aside a few hours and **commit.** 
+
+If you're familiar with R, the only resource you need is Yihui Xie's [blogdown book.](https://bookdown.org/yihui/blogdown/)
+
+***
+
+Here are the steps I took to publish this blog: 
+
+* **Found a blog theme I liked**
+</br> Browsing through Hugo's [template collections](https://themes.gohugo.io) was overwheleming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. [Yihue Xie](https://yihui.name/), [Hadley Wickham](http://hadley.nz/), [Andrew Heiss](https://www.andrewheiss.com/), [David Robinson](http://varianceexplained.org/), [Mara Averick](https://maraaverick.rbind.io/)). 
+</br>I settled on the [Cocoa Enhanced](https://themes.gohugo.io/cocoa-eh-hugo-theme/) theme on [Julia Silge's website](https://juliasilge.com/). 
+
