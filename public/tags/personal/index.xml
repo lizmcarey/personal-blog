@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Thoughts by Liz Carey</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Thoughts by Liz Carey</description>
+    <title>Personal on Thoughts by Liz Carey</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in Personal on Thoughts by Liz Carey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,19 +21,6 @@
 Holidays are no longer about about predicting what gifts I’ll receive, but rather headcount and logistics planning, including meal prep.
 2018 Carey family Christmas menu:
  Mixed salad Roasted root vegetables (recipe from NYT Cooking) Mashed potatoes Beef tenderloin with horseradish crème fraîche sauce (recipe from Serious Eats ) Apple crisp  Christmas Eve Shopping tips:</description>
-    </item>
-    
-    <item>
-      <title>Starting a blog</title>
-      <link>/blog/starting-a-blog/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/starting-a-blog/</guid>
-      <description>I finally started a blog!
-I first thought about starting a blog 3 years ago. I never went through it because:
-I didn’t know where to begin I couldn’t think of any content Laziness  The trick is to set aside a few hours and commit.
-If you’re familiar with R, the only resource you need is Yihui Xie’s blogdown book.
-Here are key tips that helped me publish this blog:</description>
     </item>
     
   </channel>

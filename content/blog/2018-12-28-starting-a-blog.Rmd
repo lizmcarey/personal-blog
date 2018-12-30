@@ -24,20 +24,18 @@ If you're familiar with R, the only resource you need is Yihui Xie's [blogdown b
 
 ***
 
-Here are the steps I took to publish this blog: 
+Here are key tips that helped me publish this blog: 
 
-* **Found a blog theme I liked**
-</br> Browsing through Hugo's [template collections](https://themes.gohugo.io) was overwheleming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. [Yihue Xie](https://yihui.name/), [Hadley Wickham](http://hadley.nz/), [Andrew Heiss](https://www.andrewheiss.com/), [David Robinson](http://varianceexplained.org/), [Mara Averick](https://maraaverick.rbind.io/)). I settled on the [Cocoa Enhanced](https://themes.gohugo.io/cocoa-eh-hugo-theme/) theme on [Julia Silge's website](https://juliasilge.com/). 
+* **Found a blog theme I liked**  
+Browsing through Hugo's [template collections](https://themes.gohugo.io) was overwhelming. Instead, I went through the personal websites of rstats profiles I currently follow (e.g. [Yihue Xie](https://yihui.name/), [Hadley Wickham](http://hadley.nz/), [Andrew Heiss](https://www.andrewheiss.com/), [David Robinson](http://varianceexplained.org/), [Mara Averick](https://maraaverick.rbind.io/)). I settled on the [Cocoa Enhanced](https://themes.gohugo.io/cocoa-eh-hugo-theme/) theme on [Julia Silge's website](https://juliasilge.com/). 
 
 * **Init git and deployed through Netlify**  
-Take the time to create a repo on Github and link your local files. Being able to push changes through git and have it continously deployed through Netlify is a huge timesaver.  
-It took me awhile to get Netlify to automatically deploy changes from my repo. I found out it's because the default build command on Hugo is too old, you'll need to create an environment variable `HUGO_VERSION` with a Hugo version greater or equal to 0.20.  
-You can read more [here.](https://bookdown.org/yihui/blogdown/netlify.html)
+Take the time to create a repo on Github and link your local files. Being able to push changes through git and have it continuously deployed through Netlify is a huge time saver.  If Netlify isn't automatically deploying changes from your repo, be sure you created an environment variable `HUGO_VERSION` with a version greater than or equal to 0.20. You can read more [here.](https://bookdown.org/yihui/blogdown/netlify.html)
 
 * **Used the Serve Site add-in**  
-The Serve Site add-in lets you preview edits you've made in the Viewer pane in Rstudio. I found this super helpful in helping gudie any major changes to the website. 
+The Serve Site add-in lets you preview edits you've made in the Viewer pane in Rstudio. I found this super helpful in helping guide any major changes to the website. 
 
-You can find a well documented post on how to publish your own website on [Alison Hill's website.](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+You can find a well documented post on how to publish your own website using blogdown on [Alison Hill's website.](https://alison.rbind.io/post/up-and-running-with-blogdown/)
 
 <center>
 ![ ](https://media3.giphy.com/media/11F0d3IVhQbreE/giphy.gif?cid=3640f6095c2832f546486f5163c06eac.gif){width=60%}

@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liz Carey</title>
+    <title>Thoughts by Liz Carey</title>
     <link>/</link>
-    <description>Recent content on Liz Carey</description>
+    <description>Recent content on Thoughts by Liz Carey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reflecting on Christmas</title>
+      <link>/blog/reflecting-on-christmas/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/reflecting-on-christmas/</guid>
+      <description>A sign of getting older is when visiting home becomes more stressful, than not. With every year that passes, a responsbility is added and layered to your plate.
+Holidays are no longer about about predicting what gifts I’ll receive, but rather headcount and logistics planning, including meal prep.
+2018 Carey family Christmas menu:
+ Mixed salad Roasted root vegetables (recipe from NYT Cooking) Mashed potatoes Beef tenderloin with horseradish crème fraîche sauce (recipe from Serious Eats ) Apple crisp  Christmas Eve Shopping tips:</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -33,7 +45,7 @@ Hopefully I&amp;rsquo;ll have this up and running with content sooooooon.
 I first thought about starting a blog 3 years ago. I never went through it because:
 I didn’t know where to begin I couldn’t think of any content Laziness  The trick is to set aside a few hours and commit.
 If you’re familiar with R, the only resource you need is Yihui Xie’s blogdown book.
-Here are the steps I took to publish this blog:</description>
+Here are key tips that helped me publish this blog:</description>
     </item>
     
     <item>

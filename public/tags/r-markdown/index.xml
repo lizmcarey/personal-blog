@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Markdown on Liz Carey</title>
+    <title>R Markdown on Thoughts by Liz Carey</title>
     <link>/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on Liz Carey</description>
+    <description>Recent content in R Markdown on Thoughts by Liz Carey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 I first thought about starting a blog 3 years ago. I never went through it because:
 I didn’t know where to begin I couldn’t think of any content Laziness  The trick is to set aside a few hours and commit.
 If you’re familiar with R, the only resource you need is Yihui Xie’s blogdown book.
-Here are the steps I took to publish this blog:</description>
+Here are key tips that helped me publish this blog:</description>
     </item>
     
   </channel>
