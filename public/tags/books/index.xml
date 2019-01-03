@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Thoughts by Liz Carey</title>
+    <link>/tags/books/</link>
+    <description>Recent content in Books on Thoughts by Liz Carey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 Recap: Books I Read</title>
+      <link>/blog/2018-recap-books-i-read/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-recap-books-i-read/</guid>
+      <description>Books I read in 2018 This year, I read x number of books. Below is a rank order of my preferred
+Less (Winner of the Pulitzer Prize): A Novel
+By Andrew Sean Greer
+⭐️ ⭐️ ⭐️ ⭐️
+How to Change Your Mind
+By Michael Pollan
+Call Me by Your Name: A Novel
+By André Aciman
+Sourdough: A novel
+By Robin Sloan
+But What if We’re Wrong?: Thinking About the Present As If it Were the Past</description>
+    </item>
+    
+  </channel>
+</rss>
