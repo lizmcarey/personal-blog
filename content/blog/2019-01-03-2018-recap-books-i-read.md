@@ -51,7 +51,12 @@ _Klosterman's writing feels very hit or miss: you either love him or you don't. 
 **By J.D. Vance**
 
 - Vacationland: True Stories from Painful Beaches  
-**By John Hodgeman** 
+  **By John Hodgeman**  
+  :star: :star: :star: :star: :star:  
+  
+    > Wine, on the other hand, is like religion: it’s mysterious,     sometimes literally opaque, and there are too many kinds of it. You never really know if a particular wine is good or bad; you just have to take it on faith from some judgy wine priest, an initiate to its mysteries. And wine is also like religion because the people who really get into it tend to be fucking unbearable.  
+
+<br>
 
 - The Brief and Wondrous Life of Oscar Wao  
 **By Junot Diaz** 
