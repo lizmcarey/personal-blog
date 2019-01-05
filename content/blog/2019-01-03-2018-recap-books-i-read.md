@@ -1,5 +1,5 @@
 ---
-title: '2018 Recap: Books I Read'
+title: 'The Books I Read in 2018'
 author: ''
 date: '2019-01-03'
 slug: 2018-recap-books-i-read
@@ -10,7 +10,7 @@ description: Books I read in 2018
 meta_img: /images/image.jpg
 ---
 
-# Books I read in 2018
+# The books I read in 2018
 
 Here's a list of books I read in 2018 in no particular order.  
 Ratings are out of 5 stars. 
@@ -97,15 +97,42 @@ _I picked up this book after watching the film. I loved the way this novel was a
 <br>
 
 - Milk and Honey  
-**By Rupi Kaur** 
+**By Rupi Kaur**  
+:star: :star: :star: :star: :star:  
+
+    >   i do not want to have you  
+        to fill the empty parts of me  
+        i want to be full on my own <br>  
+        i want to be so complete  
+        i could light a whole city  
+        and then  
+        i want to have you  
+        cause the two of  
+        us combined  
+        could set it  
+        on fire   
+        
+<br>
 
 - Men without Women: Stories  
 **By Haruki Murakami**  
+:star: :star: :star: :star: :star:  
+   
+    > If you don’t know what you’re looking for, it’s not easy to look for it.  
+    
+    <br>
+
+
 
 - Love is a Dog from Hell  
 **By Charles Bukowski**  
+:star: :star: :star:  
 
-- Everyone's a Aleibn When Ur a Alibn Too: A book  
+    > We know God is dead, they've told us, but listening to you I wasn't sure
+
+<br>
+
+- Everyone's a Aliebn When Ur a Aliebn Too: A book  
 **By Jonny Sun**  
 
 - This is How You Lose Her  
